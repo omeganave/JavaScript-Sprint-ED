@@ -1,0 +1,57 @@
+[
+    {
+        "firstName": "James",
+        "midName": "Paul",
+        "lastName": "McCartney",
+        "role": "bassist",
+        "birthday": "6/18/1942",
+        "children": 5,
+        "coreMember": true,
+        "alive": true
+    },
+    {
+        "firstName": "John",
+        "midName": "Winston",
+        "lastName": "Lennon",
+        "role": "rhythm guitarist",
+        "birthday": "10/09/1940",
+        "children": 2,
+        "alive": false
+    },
+    {
+        "firstName": "George",
+        "midName": "",
+        "lastName": "Harrison",
+        "role": "lead guitarist",
+        "birthday": "02/25/1943",
+        "children": 1,
+        "alive": false
+    },
+    {
+        "firstName": "Richard",
+        "midName": "",
+        "lastName": "Starkey",
+        "role": "drummer",
+        "birthday": "07/07/1940",
+        "children": 3,
+        "alive": true
+    },
+    {
+        "firstName": "George",
+        "midName": "Henry",
+        "lastName": "Martin",
+        "role": "producer",
+        "birthday": "01/03/1926",
+        "children": 4,
+        "alive": false
+    },
+    {
+        "firstName": "Brian",
+        "midName": "Samuel",
+        "lastName": "Epstein",
+        "role": "manager",
+        "birthday": "09/19/1934",
+        "children": 0,
+        "alive": false
+    }
+]
